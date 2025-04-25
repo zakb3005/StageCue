@@ -6,7 +6,7 @@
 
 1. **Build the project** using Visual Studio or `dotnet build`.
 2. **Run the app.** On first launch, it will create a `StageCue` folder in your `Documents` with starter assets.
-3. From the main menu, choose **Host** (requires port forwarding) or **Join** using the host's IP and port with port forwarding.
+3. From the main menu, choose **Host** (requires port forwarding) or **Join** using the host's IP and port.
 4. Take turns building scenes together with props, stages, dialog bubbles, and action prompts.
 
 ## Notes
