@@ -1,0 +1,17 @@
+{
+  "Name": "TestScene",
+  "StageRelativePath": "Stages/BackgroundTest.png",
+  "Props": [
+    {
+      "AssetRelativePath": "Objects/Characters/JacketWoman.png",
+      "MirrorX": false,
+      "MirrorY": false,
+      "RelativePos": {
+        "X": 0.38515443,
+        "Y": 0.49142617
+      },
+      "OwnerId": null
+    }
+  ],
+  "Bubbles": []
+}
