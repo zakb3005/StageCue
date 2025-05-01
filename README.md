@@ -17,6 +17,6 @@ Everything in this application was built from scratch using MonoGame for renderi
 - .png files can be put into the `Objects/Stages` folders, or any sub-folders created within them as well.
 - These files will be loaded by the app when hosting or joining a server, and can be accessed from the in-app object browser (as the `director`).
 
-# Note:
+### Note:
 - The dimensions of the image will be scaled depending on the size of the background (e.g. A 5x5 px object will be extremely small in a 1920x1080 px stage, whereas the same 5x5px object will be quite large in a 10x10 px stage).
 - In order for other users to be able to use the same asset within a session, they `must have the same file in the same folder pathway`.
