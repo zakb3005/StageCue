@@ -22,3 +22,5 @@ All artwork/starter assets were created by me.
 ### Note:
 - The dimensions of the image will be scaled depending on the size of the background (e.g. A 5x5 px object will be extremely small in a 1920x1080 px stage, whereas the same 5x5px object will be quite large in a 10x10 px stage).
 - In order for other users to be able to use the same asset within a session, they `must have the same file in the same folder pathway`.
+
+![image](https://github.com/user-attachments/assets/fec3139b-1215-466a-b543-23d50fa64bd0)
